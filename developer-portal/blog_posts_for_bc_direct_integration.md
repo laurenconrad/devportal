@@ -1,6 +1,6 @@
 # Fast Checkout for BigCommerce Blog Posts
 
-This guide will tell you how to implement Fast Checkout on your blog posts for your eCommerce site hosted on
+This guide will explain to you how to implement Fast Checkout on your blog posts for your eCommerce site hosted on
 BigCommerce. This guide assumes you have an existing eCommerce site on BigCommerce with Fast Checkout on your product
 pages already and want to write code to integrate Fast into your website's blog posts. See our
 [**other documentation**](https://fast.co/docs) for more detailed information on integrating Fast with
