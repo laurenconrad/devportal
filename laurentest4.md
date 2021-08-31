@@ -48,7 +48,8 @@ IMAGE
 12. Enter your Employee Identification Number or your social security number if you use your SSN for tax purposes. Then click “Continue.”
 IMAGE
 
-13. Wait a minute while the system verifies your business. If this verification is unsuccessful, customer success at seller-support@fast.co. Otherwise, move onto step 15.
+13. Wait a minute while Stripe verifies your business. If this verification is unsuccessful, customer success at seller-support@fast.co. Otherwise, move onto step 14.
+**Note**: Stripe is a company we work with that does these verifications.
 IMAGE
 
 14. On the Bank Details page, enter the following information and then click “Finalize Application:”
