@@ -8,6 +8,7 @@ Before you begin this process, you’ll need an online store hosted by BigCommer
 IMAGE
 
 2. Enter the PIN number you find in your email inbox.
+
 **Note**: Fast doesn’t use passwords. We will send a PIN number to your email address.
 IMAGE
 
@@ -49,6 +50,7 @@ IMAGE
 IMAGE
 
 13. Wait a minute while Stripe verifies your business. If this verification is unsuccessful, customer success at seller-support@fast.co. Otherwise, move onto step  14.
+
 **Note**: Stripe is a company we work with that does these verifications.
 IMAGE
 
