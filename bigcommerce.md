@@ -64,6 +64,9 @@ IMAGE
 - The currency you use, such as dollars or Euros
 - The country your bank account is in
 - The applicable bank account details depending on your region
+
+**Note**: Which settlement currency you can use depends on which country your business is registered in. And which bank account details you see depends on what settlement currency you use. See [this article](https://www.google.com/url?q=https://stripe.com/docs/connect/bank-debit-card-payouts%23supported-settlement&sa=D&source=editors&ust=1631049462402000&usg=AOvVaw2ooUUAnHqR6wCv3WeUIY0_) for more information.
+
 IMAGE
 
 15. Click “Continue to Dashboard.”
