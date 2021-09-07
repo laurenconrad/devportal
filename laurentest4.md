@@ -2,21 +2,21 @@
 ## Prerequisites
 Before you begin this process, you’ll need an online store hosted by WooCommerce. See [Fast Overview and Prerequisites](https://docs.google.com/document/d/1E4BGaI4w9Iy8Otb18QfFiTrHvjvdn08_4K5RU7vjKgQ/edit#heading=h.623o5uhwmywu) for more information about this and other prerequisites. If you need help at any point, contact customer success at seller-support@fast.co.
 1. On [fast.co/business](https://www.fast.co/business), enter the following information and click “Next:”
-- Your company email address (if you enter in a personal email address or a different email than what you want to use, you can change this later)
-- Your first name (If your business has multiple employees, the person signing up can add other sellers to the Fast account, later, and give other employees permissions.)
-- Your last name
+- Your preferred email address (You can add additional email addresses for access later.)
+- Your first name and your last name (If your business has multiple employees, you can add more people later and give those people various levels of access and permissions.)
 IMAGE
 
-2. Enter the PIN number you find in your email inbox.
+2. Fast will now send a PIN number to your email inbox. Open your email to find this PIN number and enter it here on Fast.
 
-**Note**: Fast doesn’t use passwords. We will send a PIN number to your email address.
+
+**Note**:  Fast doesn’t use passwords. We use PIN numbers instead.
 IMAGE
 
 3. On the Org Details page, enter the following information and then click “Next”:
 - Your company name
 - Your company address
 - Your company phone number
-- Your referral number if you were referred to Fast through a partner (this is optional)
+- Your referral number if you were referred to Fast through a partner (This is optional.)
 IMAGE
 
 4. On the Store Details page, enter the following information and then click “Next”:
@@ -32,34 +32,33 @@ IMAGE
 IMAGE
 
 7. Enter your username and password from your WooCommerce store account.
+**Note88: You need WooCommerce Store Admin access or higher to do this.
+**Note**: When you reach this specific step, you’ll need to complete the step immediately without clicking the back button. Otherwise, you will have to restart this process from the beginning. This rule does not apply to other steps.
 IMAGE
 
 8. Click “Approve.”
 IMAGE
 
-9. You now have two options:
-- You can let Fast’s customer success team do the rest of this installation process for you. To do this, click, “Request professional installation.” Then don’t move onto step 10. Wait for customer success to contact you to help you soon.
-- Alternatively, you can do it yourself. To do this, go to step 10. If you need help, reach out to the customer success team at any time.
+9. If you want to, you can click “Request professional installation.” You don’t have to do this step. If you do this step, then also click the X in the pop-up that appears and continue to step 10. If you choose not to do this step, simply go straight to step 10.
+IMAGE
 IMAGE
 
 10. Click “Next.”
-11. Click “Continue Account setup.”
+11. Click “Continue account setup.”
 IMAGE
 
-12. Enter your Employee Identification Number or your social security number if you use your SSN for tax purposes. Then click “Continue.”
+12. Enter your tax ID, such as your EIN or the equivalent depending on your region. Then click “Continue.”
 IMAGE
 
-13. Wait a minute while Stripe verifies your business. If this verification is unsuccessful, customer success at seller-support@fast.co. Otherwise, move onto step 14.
-
-**Note**: Stripe is a company we work with that does these verifications.
+13. Wait several seconds while Stripe verifies your business. If this verification is unsuccessful, contact customer success at seller-support@fast.co. Otherwise, move onto step 14.
+**Note**: If you operate under a DBA, you will need to click the pencil icon in order to enter your legal name that correlates with your tax ID..
 IMAGE
 
-14. On the Bank Details page, enter the following information and then click “Finalize Application:”
-- The name of the person who holds the bank account that is attached to your business
+14. On the Bank Details page, enter the following information and  click “Finalize Application:”
+- The legal entity the bank account was registered under
 - The currency you use, such as dollars or Euros
 - The country your bank account is in
-- Your bank account’s routing number
-- Your bank account’s account number
+- The applicable bank account details depending on your region
 IMAGE
 
 15. Click “Continue to Dashboard.”
