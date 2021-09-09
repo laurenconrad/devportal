@@ -1,14 +1,8 @@
 # Fast Overview and Prerequisites
 ## Overview
-Fast is an application that business owners can connect to their online stores to create quick, efficient checkout experiences for shoppers. Once you have installed Fast into your online store, your customers can experience speedy one-click checkouts. For example, maybe before, shoppers at an online store like Janesbooks.com had to fill out a lengthy order form. With Fast, shoppers can buy books with one click.
-## Prerequisite Basics
-To use Fast, as a prerequisite, you need an online store hosted by BigCommerce, Woocommerce, or a custom system. Below are more details on what that means.
-## Prerequisite Details
-If you have an online store, you might already use an ecommerce platform to host that store. such as BigCommerce or Woocommerce. Alternatively, you might host your store with a custom system that you set up yourself or you had an independent contractor build for your specific business.
-
-For example, if Jane sells books on Janesbooks.com, that online store on Jane’s website is powered by the ecommerce platform, BigCommerce. Jane’s neighbor, Mary, sells shoes on Marysshoes.com, but her website has a custom system through which she sells. Mary paid a developer to set up that custom system for her.
-
-Here is more information about these online store hosting platforms:
+Fast is an application that business owners can connect to their online stores to create quick, efficient checkout experiences for shoppers. Once you have installed Fast into your online store and shoppers have a Fast account, your customers can experience speedy one-click checkouts. For example, shoppers at an online store without Fast capabilities have to fill out a lengthy checkout form. But with Fast, shoppers can buy shoes with one click. This can lead to increased conversion rates for sellers and a better experience for shoppers.
+## Prerequisite
+To use Fast, as a prerequisite, you need an online store hosted by one of two ecommerce platforms, either BigCommerce or Woocommerce. Alternatively, you can also use Fast if you have an online store that you host with a custom system that your business set up or that you had an independent contractor build. In addition, you also need a bank account for your business. Below are more details about these online store hosting platforms:
 
 **BigCommerce**: This ecommerce platform is an excellent choice for sellers without developer experience who want to focus on selling their products. It’s less customizable than other options.
 
@@ -16,6 +10,6 @@ Here is more information about these online store hosting platforms:
 
 **Custom System**: You or someone you worked with might have created a custom system to power your online store, as opposed to using a pre-existing ecommerce platform like BigCommerce or WooCommerce. This option is the most technical, but gives you the most control over your store.
 ## The Future
-Fast is constantly working to integrate our product with additional ecommerce platforms. If your store runs on an ecommerce platform not mentioned here, talk to one of our representatives. We may still be able to help you. And stay tuned as we add more ecommerce platform integrations.
+Fast is constantly working to integrate with additional ecommerce platforms. If your store runs on an ecommerce platform not mentioned here, talk to one of our representatives using this [form](https://v2.fast.co/contact-sales). We may still be able to help you. And stay tuned as we add more ecommerce platform integrations. Check out the [Fast Newsroom](https://www.fast.co/newsroom/news) and [Fast’s Twitter](https://twitter.com/fast) for updates.
 ## What To Do Next
 Once you have an online store set up with one of these ecommerce platforms or a custom system, you can sign up for Fast. If you use BigCommerce, see Sign Up with BigCommerce to learn how to sign up. If you use WooCommerce, see Sign Up with WooCommerce to learn how to sign up. Information about signing up with a custom system is coming soon. This is the first step to integrating one-click checkout into your online store.
